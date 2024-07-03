@@ -13,12 +13,12 @@ sidebar:
     avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
+    linkedin: egon-ferri
     email: egon.ferri@gmail.com
     phone: +39 347 753 8060
     timezone: Rome, Italy (GMT+2)
     citizenship: Italian
-    website: blog.webjeda.com #do not add http://
-    linkedin: egon-ferri
+    website: https://medium.com/@egonferri
     github: EgonFerri
     telegram: egonferri
 
