@@ -18,7 +18,7 @@ sidebar:
     phone: +39 347 753 8060
     timezone: Rome, Italy (GMT+2)
     citizenship: Italian
-    website: https://medium.com/@egonferri
+    website: medium.com/@egonferri
     github: EgonFerri
     telegram: egonferri
 
@@ -61,28 +61,27 @@ career-profile:
 education:
     title: Education
     info:
-      - degree: MSc in Computer Science
-        university: University of London
-        time: 2011 - 2012
+      - degree: MSc in Data Science
+        university: Sapienza Università di Roma
+        time: 2018 - 2021
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - degree: BSc in Applied Mathematics
-        university: Bristol University
-        time: 2007 - 2011
+            Master's degree taught in English. It is a joint initiative within the i3S Faculty combining the expertise of four Departments
+            Department of Computer Science (DI)
+            Department of Computer, Control and Management Engineering (DIAG)
+            Information Engineering, Electronics and Telecommunications (DIET)
+            Statistics (DSS)
+            This Master's program provides a solid and modern preparation to understand and manage the multi-facet aspects of carrying out a complete data analysis, including acquisition, management, and statistical analysis.
+            
+            I graduated cum laude with a thesis on "A multimodal approach to visual sentiment analysis" focused on NLP, computer vision, and sentiment analysis.
+      - degree:  Master of Research and Innovation in Informatics (Erasmus program)
+        university: UPC School (Universitat Politècnica de Catalunya)
+        time: 2019 - 2020
         details: |
-          Describe your study here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa. Cum
-          sociis natoque penatibus et magnis dis parturient montes, nascetur
-          ridiculus mus. Donec quam felis, ultricies nec, pellentesque eu,
-          pretium quis, sem.
-            - Bullet point
-            - Bullet point
+      - degree:  Bsc in Economics and International cooperation
+        university: Sapienza Università di Roma
+        time: 2015 - 2018
+        details: |
+
 
 experiences:
     title: Experiences
