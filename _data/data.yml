@@ -21,41 +21,43 @@ sidebar:
     linkedin: egon-ferri
     github: EgonFerri
     telegram: egonferri
-    medium: https://medium.com/@egonferri
 
     languages:
       title: Languages
       info:
-        - idiom: English
+        - idiom: Italian
           level: Native
 
-        - idiom: French
+        - idiom: English
           level: Professional
 
         - idiom: Spanish
-          level: Professional
+          level: Limited Working
 
     interests:
       title: Interests
       info:
-        - item: Climbing
+        - item: Artificial Intelligence
           link:
 
-        - item: Snowboarding
+        - item: Sports
           link:
 
-        - item: Cooking
+        - item: Evolutionary biology
           link:
 
 career-profile:
     title: Career Profile
     summary: |
-      Summarise your career here lorem ipsum dolor sit amet, consectetuer
-      adipiscing elit. You can [download this free resume/CV template here]().
-      Aenean commodo ligula eget dolor aenean massa. Cum sociis natoque
-      penatibus et magnis dis parturient montes, nascetur ridiculus mus.
-      Donec quam felis, ultricies nec, pellentesque eu.
-      Second paragraph if required.
+        Life enthusiast Data Scientist.
+        
+        I've always been eclectic in my approach to knowledge. 
+        I started with classical studies in high school, then I graduated in Economics and international cooperation, and at last I got my Master's degree in Data Science.
+        This strange road is due to the fact that I'd like to understand at least a little bit of everything I can.
+        
+        For my career, I decided to be a Data Scientist (specializing in the sub-fields of machine learning, deep learning, and artificial intelligence) because I believe that these themes will be central in the new world, and data will be the driver of advancements in almost every subject. Plus, working in the field of data science could help me experiment with a lot of different new things without getting bored and stuck with a repetitive job.
+        
+        Since I was a child. I've been a Scout. Although I'm not practicing at the moment, as they use to say "semel scout, semper scout.", so I'll always keep the values of the movement in mind and heart. I'll always be ready to serve.
 education:
     title: Education
     info:
