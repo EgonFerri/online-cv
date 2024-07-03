@@ -87,84 +87,44 @@ education:
 experiences:
     title: Experiences
     info:
-      - role: Lead Developer
-        time: 2015 - Present
-        company: Startup Hubs, San Francisco
+      - role: Computer Vision Engineer
+        time: 2022 - Present
+        company: Immobiliare.it, Rome
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem. Nulla consequat massa quis
-          enim. Donec pede justo. Sed ut perspiciatis unde omnis iste natus
-          error sit voluptatem accusantium doloremque laudantium, totam rem
-          aperiam, eaque ipsa quae ab illo inventore veritatis et quasi
-          architecto beatae vitae dicta sunt explicabo.
-            - Bullet point
-            - Bullet point
-      - role: Senior Software Engineer
-        time: 2014 - 2015
-        company: Google, London
+          Main activities:
+            - Create datasets for the CV task the team will be working on;
+            - Select, test and implement CV solutions based on Deep Learning approaches for classification projects, feature and object recognition, object detection, image segmentation, and image captioning;
+            - Analyze and identify the best deep learning architectures to be used within projects, managing their life cycle and evolution;
+            - Improve the results of production models using new data sources or alternative approaches and architectures;
+            - Apply typical image processing approaches for pre-processing activities, copyright, and extrapolation of qualitative information;
+            - Present the results of the models created to an audience, both technical and non-technical, through oral presentations and written documentation;
+            - Collaborate with the group's data engineers to jointly determine the image extraction and processing pipelines;
+            - Collaborate with the other data scientists and ML engineers of the team for the production deployment of the models created through REST microservices and workflows.
+      - role: Data Scientist
+        time: 2021 - 2022
+        company: ELIS, Rome
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
-      - role: UI Developer
-        time: 2012 - 2014
-        company: Amazon, London
+            Same as before, but being the technical leader of a data science team.
+      - role: Data Scientist
+        time: 2021 - 2022
+        company: ELIS, Rome
         details: |
-          Describe your role here lorem ipsum dolor sit amet, consectetuer
-          adipiscing elit. Aenean commodo ligula eget dolor. Aenean massa.
-          Cum sociis natoque penatibus et magnis dis parturient montes,
-          nascetur ridiculus mus. Donec quam felis, ultricies nec,
-          pellentesque eu, pretium quis, sem.
-            - Bullet point
-            - Bullet point
+            Worked on Advanced Analytics and AI projects for large Italian
+            companies. Specifically, I followed the process from data ingestion, wrangling
+            and preprocessing, aimed to applying Machine Learning and Deep Learning
+            algorithms to solve forecasting, classification, clustering, NLP and Computer
+            Vision problems.
+            Furthermore, I taught Artificial intelligence for the ELIS "Digital Engineering"
+            degree course carried out in collaboration with Politecnico di Milano.
+      - role: Junior Data scientist
+        time: 2020 - 2021
+        company: ELIS, Rome
+        details: |
+            Development of a real computer vision project.
+            The aim is to build models and pipelines to detect celebrities and to perform
+            multimedia sentiment analysis on data streams of tweets concerning tv
+            programs for RAI- radio televisione italiana.
 
-certifications:
-      title: Certifications
-      list:
-        - name: CV Builder
-          start: 2020
-          end: 2021
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.google.com
-          credentialname: Google
-          details: |
-            Details about cert. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
-
-            Second paragraph. Sed eleifend enim ante, vitae efficitur purus
-            fringilla vel. Ut euismod, sem sed vulputate venenatis,
-            justo diam viverra velit, sed rhoncus leo leo eu justo.
-            Suspendisse placerat risus ante, sed porta nisi blandit at.
-        - name: Git learning
-          start: 2019
-          end:
-          organization: Microsoft
-          credentialid: 111-222
-          credentialurl: www.github.com
-          credentialname: Github
-          details: |
-            Older certification. Lorem ipsum dolor sit amet, consectetur
-            adipiscing elit.
-            Nullam eget orci purus. Nullam ultrices neque nibh.
-            Aenean fermentum, felis vulputate suscipit accumsan,
-            sem enim bibendum augue, sed convallis arcu lacus at dui.
-            Pellentesque et nibh suscipit, vestibulum turpis eu, semper tortor.
-            Praesent felis nibh, eleifend id eleifend id, dictum id enim.
-            Praesent venenatis erat non augue suscipit consectetur.
 
 projects:
     title: Projects
