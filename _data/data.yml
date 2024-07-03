@@ -58,6 +58,7 @@ career-profile:
         For my career, I decided to be a Data Scientist (specializing in the sub-fields of machine learning, deep learning, and artificial intelligence) because I believe that these themes will be central in the new world, and data will be the driver of advancements in almost every subject. Plus, working in the field of data science could help me experiment with a lot of different new things without getting bored and stuck with a repetitive job.
         
         Since I was a child. I've been a Scout. Although I'm not practicing at the moment, as they use to say "semel scout, semper scout.", so I'll always keep the values of the movement in mind and heart. I'll always be ready to serve.
+        
 education:
     title: Education
     info:
@@ -157,31 +158,23 @@ oss:
 publications:
     title: Publications
     intro: |
-      You can list your publications in this section. Lorem ipsum dolor sit
-      amet, consectetur adipiscing elit. Vestibulum et ligula in nunc
-      bibendum fringilla a eu lectus.
     papers:
-      - title: The Art of Computer Programming
-        link: "#"
-        authors: Donald E. Knuth
-        conference: Addison-Wesley, 1968
+      - title: A deep-learning–based antifraud system for car-insurance claims
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=XtQmgMoAAAAJ&citation_for_view=XtQmgMoAAAAJ:u5HHmVD_uO8C"
+        authors: Luca Maiano, Antonio Montuschi, Marta Caserio, Egon Ferri, Federico Kieffer, Chiara Germanò, Lorenzo Baiocco, Lorenzo Ricciardi Celsi, Irene Amerini, Aris Anagnostopoulos
+        conference: Expert Systems with Applications, 2023/11/30
+      - title: Online data analysis: Sentiment analysis with Python
+        link: "https://scholar.google.com/citations?view_op=view_citation&hl=it&user=XtQmgMoAAAAJ&citation_for_view=XtQmgMoAAAAJ:u-x6o8ySG0sC"
+        authors: Maria Teresa Cuomo, Lorenzo Baiocco, Ivan Colosimo, Egon Ferri, Michele La Rocca, Lorenzo Ricciardi Celsi
+        conference: Researching and Analysing Business
 
-      - title: "Genetic Programming III: Darwinian Invention &amp; Problem Solving"
-        link: "#"
-        authors: Koza, J.R., Andre, D., Bennett, F.H., Keane, M.A.
-        conference: "Morgan Kaufmann Publishers Inc., San Francisco, CA, USA, 1st edn. (1999)"
-
-      - title: A syntax directed compiler for Algol 60
-        link: "#"
-        authors: Edgar T. Irons
-        conference: "Comm. ACM 4 (1961), 51–55"
 
 skills:
     title: Skills &amp; Proficiency
 
     toolset:
-      - name: Python & Django
-        level: 98%
+      - name: Python 
+        level: 90%
 
       - name: Javascript & jQuery
         level: 98%
