@@ -10,25 +10,18 @@ sidebar:
     # Profile information
     name: Egon Ferri
     tagline: Computer Vision Engineer @ Immobiliare.it | PyData Roma co-organizer
-    avatar: profile.png  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
+    avatar: profile.jpeg  #place a 100x100 picture inside /assets/images/ folder and provide the name of the file below
 
     # Sidebar links
-    email: hello@webjeda.com
-    phone: 012 345 6789
-    timezone: America/Cancun Timezone
-    citizenship:
+    email: egon.ferri@gmail.com
+    phone: +39 347 753 8060
+    timezone: Rome, Italy (GMT+2)
+    citizenship: Italian
     website: blog.webjeda.com #do not add http://
-    linkedin: alandoe
-    xing: alandoe
-    github: sharu725
-    telegram: # add your nickname without '@' sign
-    gitlab:
-    bitbucket:
-    twitter: '@webjeda'
-    stack-overflow: # Number/Username, e.g. 123456/alandoe
-    codewars:
-    goodreads: # Number-Username, e.g. 123456-alandoe
-    pdf: http://www.africau.edu/images/default/sample.pdf
+    linkedin: https://www.linkedin.com/in/egon-ferri/
+    github: EgonFerri
+    telegram: egonferri
+    medium: https://medium.com/@egonferri
 
     languages:
       title: Languages
