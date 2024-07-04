@@ -150,7 +150,6 @@ experiences:
 publications:
     title: Publications
     intro: |
-      prova 
     papers:
       - title: "A deep-learning–based antifraud system for car-insurance claims"
         link: "#https://scholar.google.com/citations?view_op=view_citation&hl=it&user=XtQmgMoAAAAJ&citation_for_view=XtQmgMoAAAAJ:u5HHmVD_uO8C"
